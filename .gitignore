@@ -1,1 +1,3 @@
 /lib/services/apis/
+/lib/services/database.dart
+/lib/services/splitwise/
