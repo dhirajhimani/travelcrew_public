@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/randynolden/StudioProjects/travelcrewV3/build/url_launcher/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/randynolden/.gradle/caches/transforms-2/files-2.1/c818ad1f72e2a8d15bcac5e3e32194fb/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/randynolden/StudioProjects/travelcrewV3/build/url_launcher/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/randynolden/.gradle/caches/transforms-2/files-2.1/c818ad1f72e2a8d15bcac5e3e32194fb/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/randynolden/StudioProjects/travelcrewV3/build/url_launcher/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/randynolden/.gradle/caches/transforms-2/files-2.1/c818ad1f72e2a8d15bcac5e3e32194fb/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/randynolden/StudioProjects/travelcrewV3/build/url_launcher/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/randynolden/.gradle/caches/transforms-2/files-2.1/c818ad1f72e2a8d15bcac5e3e32194fb/core-1.1.0/res/drawable/notification_bg_low.xml"
+    }
+]

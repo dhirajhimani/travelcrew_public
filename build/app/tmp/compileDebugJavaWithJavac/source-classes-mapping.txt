@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/kaitechcorp/travelcrew/BuildConfig.java
+ com.kaitechcorp.travelcrew.BuildConfig

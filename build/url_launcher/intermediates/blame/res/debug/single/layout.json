@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/randynolden/StudioProjects/travelcrewV3/build/url_launcher/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/Users/randynolden/.gradle/caches/transforms-2/files-2.1/c818ad1f72e2a8d15bcac5e3e32194fb/core-1.1.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/randynolden/StudioProjects/travelcrewV3/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/randynolden/.gradle/caches/transforms-2/files-2.1/c818ad1f72e2a8d15bcac5e3e32194fb/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/randynolden/StudioProjects/travelcrewV3/build/url_launcher/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/randynolden/.gradle/caches/transforms-2/files-2.1/c818ad1f72e2a8d15bcac5e3e32194fb/core-1.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/randynolden/StudioProjects/travelcrewV3/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/randynolden/.gradle/caches/transforms-2/files-2.1/c818ad1f72e2a8d15bcac5e3e32194fb/core-1.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/randynolden/StudioProjects/travelcrewV3/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/randynolden/.gradle/caches/transforms-2/files-2.1/c818ad1f72e2a8d15bcac5e3e32194fb/core-1.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/randynolden/StudioProjects/travelcrewV3/build/url_launcher/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/randynolden/.gradle/caches/transforms-2/files-2.1/c818ad1f72e2a8d15bcac5e3e32194fb/core-1.1.0/res/layout/notification_action.xml"
+    }
+]
